@@ -1,0 +1,270 @@
+body{
+
+}
+.btt{
+	margin-left: 35px;
+	font-size: 16px;
+	margin-top: 20px;
+	cursor: pointer;
+
+}
+.btl:focus{
+	background: red;
+}
+.menu{
+	font-size: 16px;
+}
+.dropdown-menu{
+	margin-left: 28px;
+}
+.header{
+	display: flex;
+}
+.l1{
+	
+}
+.social{
+	
+	margin-left:70%;
+
+}
+.fa{
+	font-size: 18px;
+	cursor: pointer;
+	transition: all 0.5s ease;
+
+}
+.fa-facebook:hover{
+	color: rgba(41, 128, 185,1.0);
+	font-size: 20px;
+}
+.fa-twitter:hover{
+	color: rgba(52, 152, 219,1.0);
+	font-size: 20px;
+}
+.fa-instagram:hover{
+	color: rgba(231, 76, 60,1.0);
+	font-size: 20px;
+}
+.fa-pinterest-p:hover{
+	color: rgba(192, 57, 43,1.0);
+	font-size: 20px;
+}
+.fa-whatsapp:hover{
+	color: rgba(46, 204, 113,1.0);
+	font-size: 20px;
+}
+h1{
+font-family: 'Inknut Antiqua', serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Yantramanav', sans-serif;
+text-align: center;
+}
+h4{
+	color: rgba(149, 165, 166,1.0);
+   font-family: 'Inknut Antiqua', serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Yantramanav', sans-serif;
+text-align: center;
+}
+.post{
+	background: #F0F1F5;
+	width: 100%;
+	height: 700px;
+	margin-top: 120px;
+	display: flex;
+}
+.data{
+	height: 500px;
+	width: 1280px;
+	background:;
+}
+.like{
+	height: 500px;
+	width: 50px;
+	background:;
+}
+h5{
+	color: rgba(149, 165, 166,1.0);
+	text-align: center;
+	  font-family: 'Inknut Antiqua', serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Yantramanav', sans-serif;
+}
+h3{
+	text-align: center;
+	color: #444B54;
+	  font-family: 'Inknut Antiqua', serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Yantramanav', sans-serif;
+}
+.post-p{
+	margin-left: 290px;
+}
+.post-data{
+	width: 800px;
+	height: 100px;
+	text-align: center;
+	margin-left: 240px;
+	  font-family: 'Inknut Antiqua', serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Yantramanav', sans-serif;
+margin-top: 40px;
+overflow-x: hidden;
+overflow-y: hidden;
+}
+.post-data::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+.post-data::-webkit-scrollbar
+{
+	width: 5px;
+	background-color: #F5F5F5;
+}
+
+.post-data::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #555;
+}
+.emp{
+font-size: 26px;
+color: #FC575E;
+z-index: 10;
+margin-top: 40px;
+
+}
+.full{
+font-size: 26px;
+margin-top: 40px;
+color: #FC575E;
+z-index: -1;
+position: absolute;
+}
+.fulli{
+	z-index: 10;
+}
+.mpost{
+	margin-left: 610px;
+	margin-top: 10px;
+    border-radius: 20px;
+    border: 1px solid #FC575E;
+    background: white;
+    	  font-family: 'Inknut Antiqua', serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Yantramanav', sans-serif;
+transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+.mpost:hover{
+	margin-left: 610px;
+	margin-top: 10px;
+    border-radius: 20px;
+    color: white;
+    background:  #FC575E;
+    	  font-family: 'Inknut Antiqua', serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Yantramanav', sans-serif;
+}
+.modal{
+font-family: 'Inknut Antiqua', serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Yantramanav', sans-serif;	
+}
+.sub{
+	background: white;
+	border:1px solid rgba(46, 204, 113,1.0);
+  transition: all 0.5s ease;
+}
+.sub:hover{
+	background: rgba(46, 204, 113,1.0);
+	color: white;
+}
+.can{
+	background: white;
+	border:1px solid #FC575E;
+	transition: all 0.5s ease;
+
+}
+.can:hover{
+	background: #FC575E;
+	color: white;
+}
+.form-control:focus{
+	box-shadow: none;
+	border:1px solid rgba(46, 204, 113,1.0);
+}
+input[type='file']::-webkit-file-upload-button{
+	background: white;
+	height: 40px;
+	border-radius:7px;
+	box-shadow: none;
+	border:1px solid rgba(26, 188, 156,1.0);
+	font-family: 'Inknut Antiqua', serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Yantramanav', sans-serif;	
+transition: all 0.5s ease;
+}
+input[type='file']::-webkit-file-upload-button:hover{
+	background: white;
+	height: 40px;
+	border-radius:7px;
+	box-shadow: none;
+     background: rgba(26, 188, 156,1.0);
+     color: white;
+	font-family: 'Inknut Antiqua', serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Yantramanav', sans-serif;	
+}
+.intro{
+	display: flex;
+	margin-left: 500px;
+}
+.user{
+	border-radius: 100%;
+}
+.abtme{
+	border-radius: 100%;
+	margin-left: 220px;
+}
+.readm{
+	color: #FC575E;
+	border: 1px solid #44BBFF;
+	border-radius: 20px;
+	transition: all 0.5s ease;
+	margin-left: 600px;
+	margin-top: 10px;
+}
+.readm:hover{
+	color: white;
+	background: #44BBFF;
+
+}
+.input-group-addon{
+	
+}
