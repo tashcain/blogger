@@ -76,6 +76,7 @@ text-align: center;
 	width: 100%;
 	height: 830px;
 	margin-top: 120px;
+	height: auto;
 }
 .data{
 	height: 500px;
@@ -142,6 +143,8 @@ font-family: 'Yantramanav', sans-serif;
 margin-top: 20px;
 overflow-x: hidden;
 overflow-y: hidden;
+	position: relative;
+height: auto;
 }
 .postp{
 
