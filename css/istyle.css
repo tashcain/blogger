@@ -1,0 +1,197 @@
+body{
+	overflow-x: hidden;
+}
+.head1{
+	width: 100%;
+	
+	text-align: center;
+	margin-top: 120px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 530px;
+
+ 
+}
+
+li {
+    float: left;
+  	transition: all 0.5s ease;
+}
+
+li a {
+    display: block;
+      color: black;
+    text-align: center;
+   padding-top: 12px;
+   padding-left: 14px;
+   padding-right: 14px;
+   padding-bottom: 4px;
+    text-decoration: none;
+  font-family: 'Rancho', cursive;
+font-size: 18px;
+
+}
+
+
+
+li a:hover {
+text-decoration: none;
+}
+li:hover{
+	border-bottom: 2px solid #FC575E;
+}
+h1{
+	font-family: 'Clicker Script', cursive;
+	font-size: 75px;
+
+}
+h2{
+	font-family: 'Clicker Script', cursive;
+}
+.user-info{
+	display: flex;
+	width: 300px;
+	cursor: pointer;
+margin-top: 5px;
+	margin-left: 1180px;
+}
+h3{
+	font-size: 14px;
+}
+.user-pic{
+	margin-top: 5px;
+
+}
+.pos2{
+	display: flex;
+   text-align: center;
+   background: #F8F8F8;
+   border-radius: 5px;
+
+}
+.hulu{
+	margin-left: 5px;
+	border-radius: 5px;
+	
+}
+.post-image{
+	 box-shadow: 0px 0px 30px #D6D6D6;
+}
+.post-heading{
+
+	height: 50px;
+	text-align: center;
+	overflow-x: hidden;
+	overflow-y: hidden;
+
+}
+.post-text{
+	background: white;
+	 box-shadow: 0px 0px 30px #D6D6D6;
+	 width: 530px;
+	 margin-left: 5px;
+border-radius: 5px;
+}
+.head-text{
+	font-size: 27px;
+	font-family: 'Rancho', cursive;
+	margin-top: 12px;
+}
+.post-text-data{
+
+	margin-left: 7px;
+	margin-right: 5px;
+	height: 310px;
+	margin-top: 10px;
+	font-size: 16px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	font-family: 'El Messiri', sans-serif;
+}
+.rmore{
+	background: white;
+	height: 40px;
+	width: 160px;
+	color: #FC575E;
+	border-radius: 40px;
+	border:1px solid #FC575E;
+	transition: all 0.5s ease;
+	margin-top: 0px;
+
+}
+.rmore:hover{
+color: white;
+background: #FC575E;
+}
+.info{
+	margin-left: 20px;
+}
+
+.closs{
+	background: red;
+	height: 20px;
+	width: 20px;
+	border-radius: 100%;
+}
+
+
+
+.help-block{
+	margin-left: 0px;
+	margin-top: 10px;
+}
+
+input[type='file']::-webkit-file-upload-button{
+	background: white;
+	height: 40px;
+	border-radius:7px;
+	box-shadow: none;
+	font-size: 20px;
+	border:1px solid #44BBFF;
+		font-family: 'Rancho', cursive;
+transition: all 0.5s ease;
+}
+input[type='file']::-webkit-file-upload-button:hover{
+	background: white;
+	height: 40px;
+	border-radius:7px;
+	box-shadow: none;
+     background: #44BBFF;
+     color: white;
+		font-family: 'Rancho', cursive;
+}
+
+.form-control{
+	box-shadow: none;
+	height: 40px;
+	border:none;
+	font-size: 20px;
+   width: 100px;
+   -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s;
+	
+}
+
+.form-maze{
+	width: 100%;
+
+}
+.form-control:focus{
+box-shadow: none;
+border:none;
+border-bottom: 1px solid #44BBFF;
+}
+.modal{
+	font-family: 'Rancho', cursive;
+
+}
+.modal-header{
+	text-align: center;
+}
+.modal-title{
+	font-size: 22px;
+}
