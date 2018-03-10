@@ -1,0 +1,60 @@
+.head {
+    background: #9b59b6;
+    height: 97.5px;
+    text-align: center;
+}
+
+.head-title {
+    font-family: 'Lora', serif;
+    word-spacing: 10px;
+    letter-spacing: 9px;
+    padding-top: 35px;
+    color: #fff;
+    font-size: 28px;
+}
+
+.topic-head {
+    font-family: 'Lora', serif;
+}
+
+.content {
+    background: ;
+    height: 500px;
+}
+
+.left {
+    background: ;
+    height: 200px;
+}
+
+.right {
+    background: ;
+    height: 200px;
+}
+
+.navpill {
+    width: 100%;
+    text-align: center;
+    background: ;
+}
+
+.text {
+    font-size: 12px;
+}
+
+.sub-head {
+    font-family: 'Lora', serif;
+}
+
+.img-container {
+    width: 100%;
+    height: auto;
+}
+
+.small-txt {
+    font-size: 12px;
+}
+
+.form-control {
+    height: 30px;
+}
